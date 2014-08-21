@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33234" started-at="2014-08-21T21:03:51Z" finished-at="2014-08-21T21:04:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33234" started-at="2014-08-21T21:03:51Z" finished-at="2014-08-21T21:04:25Z">
+      <class name="com.testng.estore.Testjunit">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testng.estore.Testjunit@8920dc]" name="setup" is-config="true" duration-ms="24013" started-at="2014-08-22T02:33:51Z" finished-at="2014-08-22T02:34:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_login_is_successful()[pri:0, instance:com.testng.estore.Testjunit@8920dc]" name="test_login_is_successful" duration-ms="9198" started-at="2014-08-22T02:34:15Z" finished-at="2014-08-22T02:34:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_is_successful -->
+      </class> <!-- com.testng.estore.Testjunit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
